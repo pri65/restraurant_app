@@ -1,14 +1,15 @@
 # Gericht Restaurant App Clone
-> In this Website we have created a fine dinning landing page. We have the navigation bar and as we scroll down, the background changes. As we scroll even more down , there is a menu section and below that we have section for chef's words. Right below that we have a section which contains full screen video, which tells us how does this restaurant and food look like. So like this we have many sections in this page.Also this website does not have to be just about cooking, you can cenvert it into any other high end bussiness as we are completely custom about our sections.
+> Hello! Gericht Restaurant App is a single page website which resemble the landing page of a resturant. Built using the react.js and CSS3. The webpage is fully responsive and delivers better UI.
+
 
 ## Built With
 
-- HTML,
-- CSS,
-- Javascript
-- Reactjs
+- JavaScript
+- ReactJs
+- HTML
+- CSS3
 
-## Live Demo [Live Demo
+## Live Demo 
 
 [Live Demo Link](https://gericht-restro-app.netlify.app/)
 
@@ -51,7 +52,11 @@ Contributions, issues and feature requests are welcome! Start by:
 
 
 ## Authors
-- [Priyanka Soni](https://github.com/pri65)
+
+👤 **Priyanka soni**
+
+- Github: [@githubhandle](https://github.com/pri65)
+- Linkedin: [linkedin](https://www.linkedin.com/in/priyankaso/)
 
 
 

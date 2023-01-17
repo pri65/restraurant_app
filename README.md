@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Gericht Restaurant App Clone
+> In this Website we have created a fine dinning landing page. We have the navigation bar and as we scroll down, the background changes. As we scroll even more down , there is a menu section and below that we have section for chef's words. Right below that we have a section which contains full screen video, which tells us how does this restaurant and food look like. So like this we have many sections in this page.Also this website does not have to be just about cooking, you can cenvert it into any other high end bussiness as we are completely custom about our sections.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Built With
 
-## Available Scripts
+- HTML,
+- CSS,
+- Javascript
+- Reactjs
 
-In the project directory, you can run:
+## Live Demo [Live Demo
 
-### `npm start`
+[Live Demo Link](https://gericht-restro-app.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Desktop View
+- Homepage
 
-### `npm test`
+![Screenshot (31)](https://user-images.githubusercontent.com/101036458/212930402-27c84e31-a05b-44b2-b89b-25702186a362.png)
+- About Us Component
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (37)](https://user-images.githubusercontent.com/101036458/212930568-81e1c4bc-7f79-40ae-8b55-f0f0dcd9fa7c.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tablet View
+- Menu Component
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot (38)](https://user-images.githubusercontent.com/101036458/212930635-ffbf2dc2-35e7-4f2d-87c8-2917c909e3b7.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Mobile View
+- About Laurels
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ![Screenshot (40)](https://user-images.githubusercontent.com/101036458/212930723-3318e0ea-60d1-4d2e-88f4-c0c382543b7c.png)
+- Footer Part
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot (41)](https://user-images.githubusercontent.com/101036458/212930806-97f1d058-1a1c-4ddf-b1e4-9db818786aba.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🤝 Contributing
 
-## Learn More
+Contributions, issues and feature requests are welcome! Start by:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+* Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Authors
+- [Priyanka Soni](https://github.com/pri65)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Show your support
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐ if you like this project!
